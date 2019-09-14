@@ -5,7 +5,7 @@ InfoExtract (Information Extraction) is a tool currently in it's testing phase. 
 More important information to know is that your hard disk must be named C: and that your thumb drive must be named D:. All down loaded information is stored in a file "D:\Info_on_Your computer name" and is accesibl by double clicking it. Most information is stored in text files except for the D:\WindowsFull file. 
 
 You can find me on at my github and also download the file in case it doesn't work here at https://github.com/AleksAndPowershell/InfoExtract/blob/master/Infoextract.exe
-My name is Aleksandar Gojovic, follow me on instagram @Aleksandar_g1 or @BlueTechSoftwares and dm me for more information. Or email me @ aleksandar.gojovic@gmail.com Please contact me with any issues because this app is stillin the testing phase.
+My name is Aleksandar Gojovic, follow me on instagram @Aleksandar_g1 or @BlueTechSoftwares and dm me for more information. Or email me @ aleksandar.gojovic@gmail.com Please contact me with any issues because this app is still in the testing phase.
 
 
 
